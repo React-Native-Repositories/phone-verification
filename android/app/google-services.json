@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "679382415859",
+    "project_id": "otp-verification-34c22",
+    "storage_bucket": "otp-verification-34c22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679382415859:android:7a4430e5633024f1673a86",
+        "android_client_info": {
+          "package_name": "com.quickresponseteam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679382415859-2bl914tjb30qrjjqntq9gi6pef738v00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtw64o_rxHxvPuCxv_Zia7mfvVft_j8AI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679382415859-2bl914tjb30qrjjqntq9gi6pef738v00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
